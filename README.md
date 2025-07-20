@@ -1,11 +1,7 @@
 # otz-language README
-
-This is the README for your extension "otz". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "otz".
 
 ## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
-
 For example if there is an image subfolder under your extension project workspace:
 
 \!\[feature X\]\(images/feature-x.png\)
@@ -35,7 +31,8 @@ Calling out known issues can help limit users opening duplicate issues against y
 
 Users appreciate release notes as you update your extension.
 
-### 1.0.0
+### 0.9.0
+first release
 
 ---
 
