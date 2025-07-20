@@ -1,0 +1,25 @@
+{
+  "name": "otz-language",
+  "displayName": "otz language",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "otz",
+      "aliases": ["otz", "otz"],
+      "extensions": [".schema",".theory"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "otz",
+      "scopeName": "source.otz",
+      "path": "./syntaxes/otz.tmLanguage.json"
+    }]
+  }
+}
